@@ -1,2 +1,2 @@
 # smerf
-Scala Microservices Excess Reduction Framework
+Scala Microservices Experimental Reduction Framework
